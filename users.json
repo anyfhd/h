@@ -1,34 +1,22 @@
-{
-    "admins": [
-        {
-            "username": "admin1",
-            "password": "admin123"
-        },
-        {
-            "username": "admin2",
-            "password": "password2"
-        }
-    ],
-    "users": [
-        {
-            "username": "dream",
-            "password": "test"
-        },
-        {
-            "username": "user507",
-            "password": "useraccount507!"
-        },
-        {
-            "username": "mrniceguy",
-            "password": "niceday420"
-        },
-        {
-            "username": "mine",
-            "password": "test123"
-        },
-        {
-            "username": "Ansaccount",
-            "password": "EnJoYtHiS123"
-        }
-    ]
-}
+[
+    {
+        "username": "Dream",
+        "password": "dreamteam420"
+    },
+    {
+        "username": "paulystix",
+        "password": "BroPauly"
+    },
+    {
+        "username": "lejuan",
+        "password": "LeJuanTheOne"
+    },
+    {
+        "username": "user507",
+        "password": "UserAccount507"
+    },
+    {
+        "username": "racc",
+        "password": "mybroracc"
+    }
+]
